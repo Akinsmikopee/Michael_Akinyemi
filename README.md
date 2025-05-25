@@ -12,7 +12,7 @@
 [<img align="left" alt="MichaelAkinyemi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MichaelAkinyemi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MichaelAkinyemi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MichaelAkinyemi | Whatsapp" width="22px" src="https://drive.google.com/file/d/19rlbdUvQ67cwHbqGrnLYiKj4A10vQSPL/view?usp=drive_link"/>][Whatsapp]
+<!--[<img align="left" alt="MichaelAkinyemi | Whatsapp" width="22px" src="https://drive.google.com/file/d/19rlbdUvQ67cwHbqGrnLYiKj4A10vQSPL/view?usp=drive_link"/>][Whatsapp]-->
 
 [twitter]: https://x.com/AkinsMikopee10
 [youtube]: https://facebook.com/AkinsMikopee
