@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/Akinsmikopee">Programmer</a>, <a href="https://www.linkedin.com/in/michael-akinyemi/">Software Engineer/Front-end Web Developer</a>
+<h1>Hi, I'm Michael!</h1><br/><a href="https://github.com/Akinsmikopee">Programmer</a>, <a href="https://www.linkedin.com/in/michael-akinyemi/">Software Engineer/Front-end Web Developer</a>
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
